@@ -4,7 +4,7 @@ MyBatis Plus demo
 # Features
 
 * Configuration free
-* Helper class: BaseMapper and ServiceImpl
+* Helper class: BaseMapper and ServiceImpl(IService)
 
 # References
 
